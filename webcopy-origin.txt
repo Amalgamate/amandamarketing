@@ -1,0 +1,820 @@
+Uri: http://amandamarketingkenya.co.ke/
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\index.htm
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/404.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\404.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/about.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\about.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/blog-single.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\blog-single.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/contact.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\contact.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/css/all.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\all.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/animate.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\animate.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/custom.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\custom.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/mousecursor.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\mousecursor.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\slicknav.min.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: http://amandamarketingkenya.co.ke/faqs.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\faqs.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/image-gallery.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\image-gallery.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/images/about-agency-bg.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\about-agency-bg.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/arrow-accent.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\arrow-accent.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/arrow-dark.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/arrow-white.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/asterisk-icon.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\asterisk-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/digital-features-img-1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\digital-features-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/digital-features-img-2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\digital-features-img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/dot-green-icon.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\dot-green-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/experts-rating-video-bg.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\experts-rating-video-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/favicon.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\favicon.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/free-consultation-circle.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\free-consultation-circle.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/10.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/11.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\11.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/12.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/13.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\13.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/14.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\14.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/15.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\15.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485007034_3867888233356025_8265791744037675890_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485007034_3867888233356025_8265791744037675890_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485324120_3873636352781213_554426797763926376_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485324120_3873636352781213_554426797763926376_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485614085_3873636226114559_9054903532765201200_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485614085_3873636226114559_9054903532765201200_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485654310_3873636472781201_4364290943320285946_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485654310_3873636472781201_4364290943320285946_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485729498_1265144528343256_7414949843784341083_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485729498_1265144528343256_7414949843784341083_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485754622_1265101018347607_4066617989027666849_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485754622_1265101018347607_4066617989027666849_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485755571_1265144478343261_5765646475530851658_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485755571_1265144478343261_5765646475530851658_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485764082_3873636356114546_5511103477180238132_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485764082_3873636356114546_5511103477180238132_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485846918_1265144691676573_3164034875562500633_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485846918_1265144691676573_3164034875562500633_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485857210_3873636292781219_404222551273802500_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485857210_3873636292781219_404222551273802500_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485916907_1265144701676572_5209082249061628001_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485916907_1265144701676572_5209082249061628001_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485957400_1265100965014279_1970234752759202233_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485957400_1265100965014279_1970234752759202233_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/485990934_3873636599447855_175201572454881884_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\485990934_3873636599447855_175201572454881884_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486026636_1265917364932639_8731116154855140396_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486026636_1265917364932639_8731116154855140396_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486112413_1265144485009927_8198781548938701870_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486112413_1265144485009927_8198781548938701870_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486120612_3873636306114551_4786146798561167497_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486120612_3873636306114551_4786146798561167497_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486175759_1265144375009938_5890400867575503401_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486175759_1265144375009938_5890400867575503401_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486184910_1265144785009897_7441331904304164258_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486184910_1265144785009897_7441331904304164258_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486263334_1265100648347644_8915036326719259959_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486263334_1265100648347644_8915036326719259959_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486352751_3879680775510104_2375141350925978024_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486352751_3879680775510104_2375141350925978024_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486358617_1265144378343271_248440645117139160_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486358617_1265144378343271_248440645117139160_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486414606_1265144505009925_2579317053742495909_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486414606_1265144505009925_2579317053742495909_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486428896_1265144675009908_7719181164997303041_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486428896_1265144675009908_7719181164997303041_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486451710_1265144585009917_3335569669879377267_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486451710_1265144585009917_3335569669879377267_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486463730_1265144501676592_5935899631954106088_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486463730_1265144501676592_5935899631954106088_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486471088_3879680828843432_7178467649489880235_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486471088_3879680828843432_7178467649489880235_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486475874_1265144561676586_4500153976035030897_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486475874_1265144561676586_4500153976035030897_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486486773_3879680832176765_6746109008255454895_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486486773_3879680832176765_6746109008255454895_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486522526_1265144711676571_4777204796330404022_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486522526_1265144711676571_4777204796330404022_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486536038_1265144395009936_6143037750395535957_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486536038_1265144395009936_6143037750395535957_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486567759_3879680808843434_7267778599181265585_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486567759_3879680808843434_7267778599181265585_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486569868_3879680928843422_5061449050196681463_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486569868_3879680928843422_5061449050196681463_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486570581_3879680205510161_5488939845825518583_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486570581_3879680205510161_5488939845825518583_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486597530_1265144568343252_1190055591789596865_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486597530_1265144568343252_1190055591789596865_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486615359_1265144695009906_8844379724168831166_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486615359_1265144695009906_8844379724168831166_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486633871_1269633237894385_7730517325845684063_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486633871_1269633237894385_7730517325845684063_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486677019_3879680288843486_5447601392940591700_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486677019_3879680288843486_5447601392940591700_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486688650_1265144398343269_7477194845174122544_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486688650_1265144398343269_7477194845174122544_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/486699917_3879680735510108_9218583982727349444_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\486699917_3879680735510108_9218583982727349444_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/488212294_1275696177288091_408716145527018706_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\488212294_1275696177288091_408716145527018706_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/488402856_1275696067288102_1884843520828382814_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\488402856_1275696067288102_1884843520828382814_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/488493432_1275696137288095_9077375045891463828_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\488493432_1275696137288095_9077375045891463828_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/488526309_1275696053954770_799515521354933243_n.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\488526309_1275696053954770_799515521354933243_n.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/10.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\10.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/11.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\11.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/12c.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\12c.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/13.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\13.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/15.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\15.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/16.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\16.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/17.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\17.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/18.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\18.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/19.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\19.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/20.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\20.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/22.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\22.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/23.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\23.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/3.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\3.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/4.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\4.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/5.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\5.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/6.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\6.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/7.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\7.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/8.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\8.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/fed.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\fed.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/flag.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\flag.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/h.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\h.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/h2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\h2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/power.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\power.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/saf.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\saf.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/sofra.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\sofra.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/sw1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\sw1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/sy.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\sy.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/new/t1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\new\t1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/notebook.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\notebook.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/gallery/Pens.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\gallery\Pens.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/header-bg.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\header-bg.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/header-btn-dot.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\header-btn-dot.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/hero-bg-2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\hero-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-about-agency-1.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-about-agency-1.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-about-agency-2.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-about-agency-2.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-about-agency-3.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-about-agency-3.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-about-agency-4.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-about-agency-4.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-benefits-steps-1.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-benefits-steps-1.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-benefits-steps-2.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-benefits-steps-2.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-benefits-steps-4.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-benefits-steps-4.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-location.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-location.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-mail.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-phone.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-sub-accent-heading.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-sub-accent-heading.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-work-process-1.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-work-process-1.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-work-process-2.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-work-process-2.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/icon-work-process-3.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\icon-work-process-3.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/learn-more-circle.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\learn-more-circle.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/loader.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/avennue.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\avennue.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/CAO.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\CAO.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/devki.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\devki.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/first-community-bank.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\first-community-bank.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/ifamis.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\ifamis.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/jubilee.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\jubilee.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/Logo-Caritas.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\Logo-Caritas.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/sony-sugar.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\sony-sugar.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/teepee.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\teepee.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/TNT.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\TNT.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/wananchi.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\wananchi.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/yamaha.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\yamaha.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/logos/zuku.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\logos\zuku.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/post-1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/post-3.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/pre-loader.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\pre-loader.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/satisfy-client-img-1.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\satisfy-client-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/satisfy-client-img-2.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\satisfy-client-img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/satisfy-client-img-3.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\satisfy-client-img-3.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/satisfy-client-img-4.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\satisfy-client-img-4.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/satisfy-client-img-5.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\satisfy-client-img-5.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/images/section-bg-shape.png
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\section-bg-shape.png
+Content Type: image/png
+
+Uri: http://amandamarketingkenya.co.ke/images/service-bg.svg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\service-bg.svg
+Content Type: image/svg+xml
+
+Uri: http://amandamarketingkenya.co.ke/images/why-choose-image.jpg
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\images\why-choose-image.jpg
+Content Type: image/jpeg
+
+Uri: http://amandamarketingkenya.co.ke/index.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\index.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/function.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\function.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\gsap.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/isotope.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\isotope.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery.mb.YTPlayer.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery.slicknav.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\jquery.waypoints.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/magiccursor.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\magiccursor.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\parallaxie.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\SmoothScroll.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/SplitText.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\SplitText.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/typed.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\typed.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/validator.min.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\validator.min.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/js/wow.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\js\wow.js
+Content Type: text/javascript
+
+Uri: http://amandamarketingkenya.co.ke/projects.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\projects.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/service-single.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\service-single.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/services.html
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\services.html
+Content Type: text/html
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: http://amandamarketingkenya.co.ke/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/assets/js/theme-panel.js
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\assets\js\theme-panel.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/assets/videos/artistic-video.mp4
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\assets\videos\artistic-video.mp4
+Content Type: video/mp4
+
+Uri: https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCBoQRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCBoQRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCEQQRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCEQQRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCHYQRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCHYQRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCJoXRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCJoXRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCKMXRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCKMXRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQQRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQQRrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQXRrw.ttf
+File Name: C:\Downloaded Web Sites\amandamarketingkenya.co.ke\s\fustat\v4\NaPEcZ_aHO9Iy5thRNqze7YGY9HGCMQXRrw.ttf
+Content Type: font/ttf
+
