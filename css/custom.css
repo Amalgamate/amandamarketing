@@ -8154,6 +8154,14 @@ body:has(.page-gallery) .work-together-content::after {
 	display: block;
 }
 
+.hero-content .section-title h1 .hero-headline-emphasis {
+	color: inherit;
+	font-size: 1.14em;
+	font-style: oblique;
+	font-weight: 400;
+	white-space: nowrap;
+}
+
 @media (max-width: 767px) {
 	.hero-content .section-title h1 {
 		font-size: clamp(30px, 7.2vw, 42px);
