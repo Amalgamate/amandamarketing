@@ -2020,33 +2020,62 @@ body:has(.offcanvas){
 	margin-left: -50vw;
 	margin-right: -50vw;
 	background-color: var(--dark-color);
-	padding: 60px 0;
+	padding: 70px 0;
 	overflow: hidden;
 }
 
-/* Our Clients Grid Layout */
+/* Three continuously scrolling rows of client logos */
 .our-clients-scrolling{
 	width: 100%;
-	padding: 0 40px;
+	padding: 0;
 }
 
 .clients-grid-container{
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-	gap: 30px;
-	max-width: 1200px;
-	margin: 0 auto;
-	justify-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+.client-logo-row{
+	width: 100%;
+	overflow: hidden;
+}
+
+.client-logo-track,
+.client-logo-group{
+	display: flex;
+	width: max-content;
+	align-items: center;
+	gap: 28px;
+}
+
+.client-logo-track{
+	animation: client-logo-scroll 48s linear infinite;
+}
+
+.client-logo-row-scroll-right .client-logo-track{
+	animation-direction: reverse;
+}
+
+.client-logo-row:hover .client-logo-track,
+.client-logo-row:focus-within .client-logo-track{
+	animation-play-state: paused;
+}
+
+@keyframes client-logo-scroll{
+	from { transform: translateX(0); }
+	to { transform: translateX(-50%); }
 }
 
 .client-logo{
 	background-color: white;
 	border-radius: 15px;
 	text-align: center;
-	padding: 25px 30px;
+	padding: 22px 28px;
 	transition: all 0.4s ease-in-out;
-	width: 140px;
-	height: 90px;
+	flex: 0 0 auto;
+	width: 190px;
+	height: 120px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -2062,8 +2091,8 @@ body:has(.offcanvas){
 }
 
 .client-logo img{
-	max-height: 40px;
-	max-width: 100px;
+	max-height: 64px;
+	max-width: 140px;
 	width: auto;
 	height: auto;
 	object-fit: contain;
@@ -8111,6 +8140,45 @@ body:has(.page-gallery) .work-together-content::after {
 .client-logo[href]:focus-visible {
 	outline: 3px solid var(--accent-color);
 	outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.client-logo-track {
+		animation: none;
+	}
+}
+
+@media (max-width: 991px) {
+	.client-logo {
+		width: 170px;
+		height: 110px;
+	}
+}
+
+@media (max-width: 575px) {
+	.our-clients-full-width {
+		padding: 44px 0;
+	}
+
+	.client-logo {
+		width: 150px;
+		height: 100px;
+		padding: 16px 20px;
+	}
+
+	.client-logo img {
+		max-width: 120px;
+		max-height: 54px;
+	}
+
+	.client-logo-track,
+	.client-logo-group {
+		gap: 18px;
+	}
+
+	.clients-grid-container {
+		gap: 18px;
+	}
 }
 
 .main-menu .nav-menu-wrapper {
