@@ -8098,118 +8098,19 @@ body:has(.page-gallery) .work-together-content::after {
 
 /* Custom CSS */
 
-/* Categorized client portfolio */
-.client-portfolio {
-	padding: 100px 0;
-	background: #f7f8f6;
-}
-
-.client-sector-grid {
-	display: grid;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
-	gap: 22px;
-	margin-top: 44px;
-}
-
-.client-sector {
-	padding: 28px 30px;
-	border: 1px solid rgba(20, 28, 24, 0.09);
-	border-radius: 16px;
-	background: #fff;
-	box-shadow: 0 8px 28px rgba(20, 28, 24, 0.04);
-}
-
-.client-sector h3 {
-	margin: 0 0 18px;
-	font-size: 21px;
-	font-weight: 600;
-}
-
-.client-sector ul {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
-	gap: 12px;
-	margin: 0;
-	padding: 0;
-	list-style: none;
-}
-
-.client-sector li {
-	min-width: 0;
-	min-height: 124px;
-	padding: 13px 10px;
-	border: 1px solid rgba(20, 28, 24, 0.08);
-	border-radius: 10px;
-	background: #fbfcfb;
-	text-align: center;
-}
-
-.client-sector a,
-.client-sector .client-name {
-	display: flex;
-	min-height: 96px;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+.client-logo[href] {
 	color: #292e2b;
-	font-size: 16px;
-	font-weight: 600;
-	line-height: 1.45;
-}
-
-.client-sector a {
 	text-decoration: none;
-	text-underline-offset: 3px;
 }
 
-.client-sector a img {
-	width: 100%;
-	max-width: 130px;
-	height: 62px;
-	margin: 0 auto 9px;
-	object-fit: contain;
+.client-logo-text {
+	font-size: 15px;
+	font-weight: 600;
 }
 
-.client-sector a:hover,
-.client-sector a:focus-visible {
-	color: var(--accent-color);
-	text-decoration: underline;
-}
-
-.client-sector a span,
-.client-sector .client-name span {
-	display: block;
-	margin-top: 3px;
-	color: #777e79;
-	font-size: 13px;
-	font-weight: 400;
-}
-
-.client-sector li:has(a span) a,
-.client-sector li:has(.client-name span) .client-name {
-	font-size: 14px;
-}
-
-@media (max-width: 991px) {
-	.client-sector-grid {
-		grid-template-columns: repeat(2, minmax(0, 1fr));
-	}
-}
-
-@media (max-width: 575px) {
-	.client-portfolio {
-		padding: 70px 0;
-	}
-
-	.client-sector-grid {
-		grid-template-columns: 1fr;
-		gap: 16px;
-		margin-top: 30px;
-	}
-
-	.client-sector {
-		padding: 24px;
-	}
+.client-logo[href]:focus-visible {
+	outline: 3px solid var(--accent-color);
+	outline-offset: 4px;
 }
 
 .main-menu .nav-menu-wrapper {
