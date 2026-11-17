@@ -8142,6 +8142,20 @@ body:has(.page-gallery) .work-together-content::after {
 	outline-offset: 4px;
 }
 
+/* Keep the rotating hero headline inside a stable two-line area. */
+.hero-content .section-title h1 {
+	font-size: clamp(48px, 5.2vw, 80px);
+	line-height: 1.08;
+	min-height: 2.16em;
+}
+
+@media (max-width: 767px) {
+	.hero-content .section-title h1 {
+		font-size: clamp(34px, 8vw, 48px);
+		min-height: 3.24em;
+	}
+}
+
 @media (prefers-reduced-motion: reduce) {
 	.client-logo-track {
 		animation: none;
