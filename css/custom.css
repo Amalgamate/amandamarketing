@@ -8157,16 +8157,12 @@ body:has(.page-gallery) .work-together-content::after {
 	outline-offset: 4px;
 }
 
-/* Keep the rotating hero headline inside a stable two-line area. */
+/* Keep the static hero headline visible without the scroll-triggered text split. */
 .hero-content .section-title h1 {
 	font-size: clamp(42px, 4.6vw, 70px);
 	font-weight: 300;
 	line-height: 1.08;
-	min-height: 2.16em;
-}
-
-.hero-content .section-title h1 .typed-title {
-	display: block;
+	min-height: 0;
 }
 
 .hero-content .section-title h1 .hero-headline-line {
