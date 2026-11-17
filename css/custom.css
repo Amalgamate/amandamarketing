@@ -8126,18 +8126,31 @@ body:has(.page-gallery) .work-together-content::after {
 }
 
 .client-sector ul {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
+	gap: 12px;
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-.client-sector li + li {
-	margin-top: 13px;
+.client-sector li {
+	min-width: 0;
+	min-height: 124px;
+	padding: 13px 10px;
+	border: 1px solid rgba(20, 28, 24, 0.08);
+	border-radius: 10px;
+	background: #fbfcfb;
+	text-align: center;
 }
 
 .client-sector a,
 .client-sector .client-name {
-	display: inline-block;
+	display: flex;
+	min-height: 96px;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 	color: #292e2b;
 	font-size: 16px;
 	font-weight: 600;
@@ -8150,10 +8163,10 @@ body:has(.page-gallery) .work-together-content::after {
 }
 
 .client-sector a img {
-	float: left;
-	width: 76px;
-	height: 46px;
-	margin: 0 12px 6px 0;
+	width: 100%;
+	max-width: 130px;
+	height: 62px;
+	margin: 0 auto 9px;
 	object-fit: contain;
 }
 
@@ -8170,6 +8183,11 @@ body:has(.page-gallery) .work-together-content::after {
 	color: #777e79;
 	font-size: 13px;
 	font-weight: 400;
+}
+
+.client-sector li:has(a span) a,
+.client-sector li:has(.client-name span) .client-name {
+	font-size: 14px;
 }
 
 @media (max-width: 991px) {
