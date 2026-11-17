@@ -2128,6 +2128,10 @@ body:has(.offcanvas){
 	margin-bottom: 80px;
 }
 
+.page-project .our-Project-nav{
+	margin: 0 0 44px;
+}
+
 .our-Project-nav ul{
 	list-style: none;
 	text-align: center;
