@@ -8149,6 +8149,14 @@ body:has(.page-gallery) .work-together-content::after {
 	text-underline-offset: 3px;
 }
 
+.client-sector a img {
+	float: left;
+	width: 76px;
+	height: 46px;
+	margin: 0 12px 6px 0;
+	object-fit: contain;
+}
+
 .client-sector a:hover,
 .client-sector a:focus-visible {
 	color: var(--accent-color);
